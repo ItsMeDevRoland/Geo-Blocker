@@ -1,6 +1,6 @@
 ![GeoBlockerLogo](https://raw.githubusercontent.com/ItsMeDevRoland/Geo-Blocker/refs/heads/main/resources/GeoBlocker%20(1).png)
 ## Geo-Blocker
-> A simple, basic, highly customizable, open-source geoblocking application
+> A simple, basic, highly customizable, open-source **geoblocking scaffold**
 
 ## Introduction
 Geo-Blocker is a set of **minimal code templates** We made to help **YOU** (or other indie devs) **quickly block countries** from accessing your apps/games — *because some local laws are impossible for small teams to comply with*.  
